@@ -1,0 +1,12 @@
+{
+  "name": "stefanie_portfolio",
+  "id": "6929599",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "skbaarman",
+    "id": "2245456"
+  }
+}
